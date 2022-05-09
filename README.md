@@ -4,7 +4,7 @@
 
 ## "Stock Produtos"
 
-![Inicio - Google Chrome 8_5_2022 22_18_06](https://user-images.githubusercontent.com/88462536/167326693-812257e9-384a-40b5-b21f-3fa1e2d4c19f.png)
+![Inicio - Google Chrome 9_5_2022 20_20_28](https://user-images.githubusercontent.com/88462536/167514448-cbf7b3df-0ca9-4264-a48f-1720208addaf.png)
 
 
 ![List Productos - Google Chrome 8_5_2022 22_23_18](https://user-images.githubusercontent.com/88462536/167326714-7b5c2623-d9ef-459f-a2fd-c06fb7c2284a.png)
