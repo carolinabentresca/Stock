@@ -1,4 +1,4 @@
-### Proyecto Java Spring Boot 
+### Proyecto JAVA Spring Boot 
 - #### Uso SpringMVC - Spring Data Jpa e Hibernate
 - #### Uso de Thymeleaf - Bootstrap v4.5 
 - ####  "Stock de Produtos"
